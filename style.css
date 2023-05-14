@@ -1,0 +1,87 @@
+
+body {
+    background-color: #E5F3FF
+}
+
+h1 {
+    font-family: 'Inconsolata', monospace;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    font-size: 'Inconsolata', monospace; ;
+    color: darkblue; 
+    text-align: center;
+    font-size:medium;
+}
+
+h3 {
+    font-size: 'Inconsolata', monospace; ;
+    color: darkblue; 
+    text-align: center;
+    font-size:medium;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.heading {
+    width: 70%;
+    height: auto;
+    background-color:white ;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.v2 {
+    width: 70%;
+    margin: auto;
+    text-align: justify;
+}
+.invite {
+    width: 70%;
+    margin: auto;
+}
+
+.main-p {
+    text-align: justify;
+}
+
+.p-2 {
+    text-align: justify;
+}
+
+.p-footer {
+    margin-left: 60%;
+    text-align: justify;
+}
+
+.p-footer-2 {
+    margin-left: 60%;
+    text-align: justify;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.tulip30 {
+    width: 100px;
+    position: absolute;
+    margin-left: 700px;
+    padding-top: 30px;
+}
+
+
+.tuinier {
+    width: 100px;
+    position: absolute;
+}
+
+.tuinen {
+    width: 100px;
+    position: absolute;
+    margin-left: 110px;
+}
